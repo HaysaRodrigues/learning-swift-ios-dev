@@ -10,6 +10,8 @@ Links úteis para aprender Swift + iOS development.
 * [Lista com todos os exercícios de Swift em TDD](http://exercism.io/languages/swift/exercises)
 * Minhas soluções:
 1. [Hello World - TDD](http://exercism.io/submissions/d17127eef148494792976ceb8c7504cc)
+2. 
+3. [Leap Year - TDD](http://exercism.io/submissions/a7cddfae87604cd8aec10e933a5d98a4)
 
 * Criar o projeto no formato 
 ```
@@ -51,5 +53,14 @@ Para formatar o código em Strings que ficam em múltiplas linhas
 let quotation = """
 I said "I have \(apples) apples."
 And then I said "I have \(apples + oranges) pieces of fruit."
+```
+### Tipos de variáveis na Swift
+```
+Int
+Float
+Double
+String
+Character
+Bool
 ```
 ### Arrays (???)
