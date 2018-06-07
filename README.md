@@ -11,6 +11,11 @@ Links úteis para aprender Swift + iOS development.
 * Minhas soluções:
 1. [Hello World - TDD](http://exercism.io/submissions/d17127eef148494792976ceb8c7504cc)
 
+* Criar o projeto no formato 
+```
+swift package generate-xcodeproj
+```
+
 ### Aprendendo os basics da Swift
 
 Não precisa de ; E não precisa do main() para um Hello World.
