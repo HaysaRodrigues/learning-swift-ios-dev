@@ -65,3 +65,23 @@ Character
 Bool
 ```
 ### Arrays (???)
+
+### Controles de fluxo
+
+Não precisa dos (), a sintaxe fica bem simples.
+
+```swift
+if score > 50 {
+        teamScore += 3
+    } else {
+        teamScore += 1
+    }
+```    
+Para fazer o FOR, 
+
+```swift
+let individualScores = [75, 43, 103, 87, 12]
+for score in individualScores {
+    //block of code 
+}
+```
