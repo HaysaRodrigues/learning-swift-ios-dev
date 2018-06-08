@@ -8,6 +8,7 @@ Links úteis para aprender Swift + iOS development.
 
 ### Soluções de exercisms Swift com TDD 
 * [Lista com todos os exercícios de Swift em TDD](http://exercism.io/languages/swift/exercises)
+
 Minhas soluções:
 1. [Hello World](http://exercism.io/submissions/d17127eef148494792976ceb8c7504cc)
 2. [Two Fer](http://exercism.io/submissions/48582fcbbc37402aa4bb95279dfe7c4c)
