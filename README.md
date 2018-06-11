@@ -2,7 +2,7 @@
 
 ## Getting Started
 Links úteis para aprender Swift + iOS development.
-* [Desenvolver iOS App com Swift](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1)
+* [Desenvolver iOS App com Swift (FoodTracker)](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214-CH2-SW1)
 * Os pedaços de código dos exemplos abaixo são do [Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html#)
 * [Swift com TDD no exercism](http://exercism.io/languages/swift/exercises)
 
